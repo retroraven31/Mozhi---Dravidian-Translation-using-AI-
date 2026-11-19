@@ -99,6 +99,7 @@ Mozhi aims to contribute to the preservation, accessibility, and technological a
 ## Contributors
 
 **Jacob Immanuel C**
+**Dinakar Nisank Nukala**
 
 AI & Machine Learning | Natural Language Processing
 
